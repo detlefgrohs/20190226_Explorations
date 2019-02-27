@@ -1,0 +1,4773 @@
+fileFormatVersion: 2
+guid: f455c46935b8dd646ad1cfbc87766925
+timeCreated: 1468195304
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TownInterior@128x128_0
+    21300002: TownInterior@128x128_1
+    21300004: TownInterior@128x128_2
+    21300006: TownInterior@128x128_3
+    21300008: TownInterior@128x128_4
+    21300010: TownInterior@128x128_5
+    21300012: TownInterior@128x128_6
+    21300014: TownInterior@128x128_7
+    21300016: TownInterior@128x128_8
+    21300018: TownInterior@128x128_9
+    21300020: TownInterior@128x128_10
+    21300022: TownInterior@128x128_11
+    21300024: TownInterior@128x128_12
+    21300026: TownInterior@128x128_13
+    21300028: TownInterior@128x128_14
+    21300030: TownInterior@128x128_15
+    21300032: TownInterior@128x128_16
+    21300034: TownInterior@128x128_17
+    21300036: TownInterior@128x128_18
+    21300038: TownInterior@128x128_19
+    21300040: TownInterior@128x128_20
+    21300042: TownInterior@128x128_21
+    21300044: TownInterior@128x128_22
+    21300046: TownInterior@128x128_23
+    21300048: TownInterior@128x128_24
+    21300050: TownInterior@128x128_25
+    21300052: TownInterior@128x128_26
+    21300054: TownInterior@128x128_27
+    21300056: TownInterior@128x128_28
+    21300058: TownInterior@128x128_29
+    21300060: TownInterior@128x128_30
+    21300062: TownInterior@128x128_31
+    21300064: TownInterior@128x128_32
+    21300066: TownInterior@128x128_33
+    21300068: TownInterior@128x128_34
+    21300070: TownInterior@128x128_35
+    21300072: TownInterior@128x128_36
+    21300074: TownInterior@128x128_37
+    21300076: TownInterior@128x128_38
+    21300078: TownInterior@128x128_39
+    21300080: TownInterior@128x128_40
+    21300082: TownInterior@128x128_41
+    21300084: TownInterior@128x128_42
+    21300086: TownInterior@128x128_43
+    21300088: TownInterior@128x128_44
+    21300090: TownInterior@128x128_45
+    21300092: TownInterior@128x128_46
+    21300094: TownInterior@128x128_47
+    21300096: TownInterior@128x128_48
+    21300098: TownInterior@128x128_49
+    21300100: TownInterior@128x128_50
+    21300102: TownInterior@128x128_51
+    21300104: TownInterior@128x128_52
+    21300106: TownInterior@128x128_53
+    21300108: TownInterior@128x128_54
+    21300110: TownInterior@128x128_55
+    21300112: TownInterior@128x128_56
+    21300114: TownInterior@128x128_57
+    21300116: TownInterior@128x128_58
+    21300118: TownInterior@128x128_59
+    21300120: TownInterior@128x128_60
+    21300122: TownInterior@128x128_61
+    21300124: TownInterior@128x128_62
+    21300126: TownInterior@128x128_63
+    21300128: TownInterior@128x128_64
+    21300130: TownInterior@128x128_65
+    21300132: TownInterior@128x128_66
+    21300134: TownInterior@128x128_67
+    21300136: TownInterior@128x128_68
+    21300138: TownInterior@128x128_69
+    21300140: TownInterior@128x128_70
+    21300142: TownInterior@128x128_71
+    21300144: TownInterior@128x128_72
+    21300146: TownInterior@128x128_73
+    21300148: TownInterior@128x128_74
+    21300150: TownInterior@128x128_75
+    21300152: TownInterior@128x128_76
+    21300154: TownInterior@128x128_77
+    21300156: TownInterior@128x128_78
+    21300158: TownInterior@128x128_79
+    21300160: TownInterior@128x128_80
+    21300162: TownInterior@128x128_81
+    21300164: TownInterior@128x128_82
+    21300166: TownInterior@128x128_83
+    21300168: TownInterior@128x128_84
+    21300170: TownInterior@128x128_85
+    21300172: TownInterior@128x128_86
+    21300174: TownInterior@128x128_87
+    21300176: TownInterior@128x128_88
+    21300178: TownInterior@128x128_89
+    21300180: TownInterior@128x128_90
+    21300182: TownInterior@128x128_91
+    21300184: TownInterior@128x128_92
+    21300186: TownInterior@128x128_93
+    21300188: TownInterior@128x128_94
+    21300190: TownInterior@128x128_95
+    21300192: TownInterior@128x128_96
+    21300194: TownInterior@128x128_97
+    21300196: TownInterior@128x128_98
+    21300198: TownInterior@128x128_99
+    21300200: TownInterior@128x128_100
+    21300202: TownInterior@128x128_101
+    21300204: TownInterior@128x128_102
+    21300206: TownInterior@128x128_103
+    21300208: TownInterior@128x128_104
+    21300210: TownInterior@128x128_105
+    21300212: TownInterior@128x128_106
+    21300214: TownInterior@128x128_107
+    21300216: TownInterior@128x128_108
+    21300218: TownInterior@128x128_109
+    21300220: TownInterior@128x128_110
+    21300222: TownInterior@128x128_111
+    21300224: TownInterior@128x128_112
+    21300226: TownInterior@128x128_113
+    21300228: TownInterior@128x128_114
+    21300230: TownInterior@128x128_115
+    21300232: TownInterior@128x128_116
+    21300234: TownInterior@128x128_117
+    21300236: TownInterior@128x128_118
+    21300238: TownInterior@128x128_119
+    21300240: TownInterior@128x128_120
+    21300242: TownInterior@128x128_121
+    21300244: TownInterior@128x128_122
+    21300246: TownInterior@128x128_123
+    21300248: TownInterior@128x128_124
+    21300250: TownInterior@128x128_125
+    21300252: TownInterior@128x128_126
+    21300254: TownInterior@128x128_127
+    21300256: TownInterior@128x128_128
+    21300258: TownInterior@128x128_129
+    21300260: TownInterior@128x128_130
+    21300262: TownInterior@128x128_131
+    21300264: TownInterior@128x128_132
+    21300266: TownInterior@128x128_133
+    21300268: TownInterior@128x128_134
+    21300270: TownInterior@128x128_135
+    21300272: TownInterior@128x128_136
+    21300274: TownInterior@128x128_137
+    21300276: TownInterior@128x128_138
+    21300278: TownInterior@128x128_139
+    21300280: TownInterior@128x128_140
+    21300282: TownInterior@128x128_141
+    21300284: TownInterior@128x128_142
+    21300286: TownInterior@128x128_143
+    21300288: TownInterior@128x128_144
+    21300290: TownInterior@128x128_145
+    21300292: TownInterior@128x128_146
+    21300294: TownInterior@128x128_147
+    21300296: TownInterior@128x128_148
+    21300298: TownInterior@128x128_149
+    21300300: TownInterior@128x128_150
+    21300302: TownInterior@128x128_151
+    21300304: TownInterior@128x128_152
+    21300306: TownInterior@128x128_153
+    21300308: TownInterior@128x128_154
+    21300310: TownInterior@128x128_155
+    21300312: TownInterior@128x128_156
+    21300314: TownInterior@128x128_157
+    21300316: TownInterior@128x128_158
+    21300318: TownInterior@128x128_159
+    21300320: TownInterior@128x128_160
+    21300322: TownInterior@128x128_161
+    21300324: TownInterior@128x128_162
+    21300326: TownInterior@128x128_163
+    21300328: TownInterior@128x128_164
+    21300330: TownInterior@128x128_165
+    21300332: TownInterior@128x128_166
+    21300334: TownInterior@128x128_167
+    21300336: TownInterior@128x128_168
+    21300338: TownInterior@128x128_169
+    21300340: TownInterior@128x128_170
+    21300342: TownInterior@128x128_171
+    21300344: TownInterior@128x128_172
+    21300346: TownInterior@128x128_173
+    21300348: TownInterior@128x128_174
+    21300350: TownInterior@128x128_175
+    21300352: TownInterior@128x128_176
+    21300354: TownInterior@128x128_177
+    21300356: TownInterior@128x128_178
+    21300358: TownInterior@128x128_179
+    21300360: TownInterior@128x128_180
+    21300362: TownInterior@128x128_181
+    21300364: TownInterior@128x128_182
+    21300366: TownInterior@128x128_183
+    21300368: TownInterior@128x128_184
+    21300370: TownInterior@128x128_185
+    21300372: TownInterior@128x128_186
+    21300374: TownInterior@128x128_187
+    21300376: TownInterior@128x128_188
+    21300378: TownInterior@128x128_189
+    21300380: TownInterior@128x128_190
+    21300382: TownInterior@128x128_191
+    21300384: TownInterior@128x128_192
+    21300386: TownInterior@128x128_193
+    21300388: TownInterior@128x128_194
+    21300390: TownInterior@128x128_195
+    21300392: TownInterior@128x128_196
+    21300394: TownInterior@128x128_197
+    21300396: TownInterior@128x128_198
+    21300398: TownInterior@128x128_199
+    21300400: TownInterior@128x128_200
+    21300402: TownInterior@128x128_201
+    21300404: TownInterior@128x128_202
+    21300406: TownInterior@128x128_203
+    21300408: TownInterior@128x128_204
+    21300410: TownInterior@128x128_205
+    21300412: TownInterior@128x128_206
+    21300414: TownInterior@128x128_207
+    21300416: TownInterior@128x128_208
+    21300418: TownInterior@128x128_209
+    21300420: TownInterior@128x128_210
+    21300422: TownInterior@128x128_211
+    21300424: TownInterior@128x128_212
+    21300426: TownInterior@128x128_213
+    21300428: TownInterior@128x128_214
+    21300430: TownInterior@128x128_215
+    21300432: TownInterior@128x128_216
+    21300434: TownInterior@128x128_217
+    21300436: TownInterior@128x128_218
+    21300438: TownInterior@128x128_219
+    21300440: TownInterior@128x128_220
+    21300442: TownInterior@128x128_221
+    21300444: TownInterior@128x128_222
+    21300446: TownInterior@128x128_223
+    21300448: TownInterior@128x128_224
+    21300450: TownInterior@128x128_225
+    21300452: TownInterior@128x128_226
+    21300454: TownInterior@128x128_227
+    21300456: TownInterior@128x128_228
+    21300458: TownInterior@128x128_229
+    21300460: TownInterior@128x128_230
+    21300462: TownInterior@128x128_231
+    21300464: TownInterior@128x128_232
+    21300466: TownInterior@128x128_233
+    21300468: TownInterior@128x128_234
+    21300470: TownInterior@128x128_235
+    21300472: TownInterior@128x128_236
+    21300474: TownInterior@128x128_237
+    21300476: TownInterior@128x128_238
+    21300478: TownInterior@128x128_239
+    21300480: TownInterior@128x128_240
+    21300482: TownInterior@128x128_241
+    21300484: TownInterior@128x128_242
+    21300486: TownInterior@128x128_243
+    21300488: TownInterior@128x128_244
+    21300490: TownInterior@128x128_245
+    21300492: TownInterior@128x128_246
+    21300494: TownInterior@128x128_247
+    21300496: TownInterior@128x128_248
+    21300498: TownInterior@128x128_249
+    21300500: TownInterior@128x128_250
+    21300502: TownInterior@128x128_251
+    21300504: TownInterior@128x128_252
+    21300506: TownInterior@128x128_253
+    21300508: TownInterior@128x128_254
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TownInterior@128x128_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 64}
+        - {x: -55, y: 64}
+        - {x: -64, y: 62}
+        - {x: -64, y: -7}
+        - {x: 51, y: -7}
+        - {x: 64, y: -6}
+        - {x: 64, y: 58}
+        - {x: 51, y: 63}
+    - name: TownInterior@128x128_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 64}
+        - {x: -64, y: 52}
+        - {x: -64, y: -24}
+        - {x: 62, y: -24}
+        - {x: 64, y: -22}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: -11, y: -64}
+        - {x: 64, y: 17}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -6}
+        - {x: -40, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -18}
+        - {x: 18, y: -23}
+        - {x: 18, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -18}
+    - name: TownInterior@128x128_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -16}
+        - {x: -64, y: -18}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -18}
+        - {x: 24, y: -16}
+    - name: TownInterior@128x128_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -18}
+        - {x: -64, y: -18}
+        - {x: -64, y: -64}
+        - {x: -18, y: -64}
+        - {x: -18, y: -22}
+    - name: TownInterior@128x128_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_27
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -18}
+        - {x: 48, y: -15}
+    - name: TownInterior@128x128_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 64}
+        - {x: -32, y: 60}
+        - {x: -64, y: -17}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_29
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 64}
+        - {x: 16, y: 31}
+        - {x: 16, y: -18}
+        - {x: 18, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_30
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: -18, y: -64}
+        - {x: -16, y: -31}
+        - {x: -16, y: 12}
+        - {x: -18, y: 64}
+    - name: TownInterior@128x128_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 22}
+        - {x: -22, y: 22}
+        - {x: -35, y: -15}
+        - {x: -35, y: -59}
+        - {x: -27, y: -64}
+        - {x: 28, y: -64}
+        - {x: 39, y: -47}
+        - {x: 41, y: -33}
+        - {x: 41, y: 7}
+    - name: TownInterior@128x128_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_43
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 64}
+        - {x: -64, y: 54}
+        - {x: -64, y: -62}
+        - {x: -61, y: -64}
+        - {x: 48, y: -64}
+        - {x: 57, y: -60}
+        - {x: 57, y: 64}
+    - name: TownInterior@128x128_45
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 64}
+        - {x: 18, y: 21}
+        - {x: 24, y: 18}
+        - {x: 64, y: 18}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_46
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: 18}
+        - {x: -31, y: 16}
+        - {x: 18, y: 16}
+        - {x: 64, y: 18}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_47
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: 18}
+        - {x: -21, y: 18}
+        - {x: -18, y: 24}
+        - {x: -18, y: 64}
+    - name: TownInterior@128x128_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_56
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_59
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_60
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_61
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 64}
+        - {x: -64, y: 46}
+        - {x: -64, y: -47}
+        - {x: -61, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 63}
+        - {x: -64, y: 60}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 60}
+        - {x: 32, y: 63}
+    - name: TownInterior@128x128_63
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 62}
+        - {x: 32, y: 63}
+        - {x: -21, y: 63}
+        - {x: -64, y: 60}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 48}
+        - {x: 54, y: 59}
+    - name: TownInterior@128x128_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_73
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_74
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_75
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_77
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 64}
+        - {x: -64, y: 54}
+        - {x: -64, y: 0}
+        - {x: -61, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_78
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_79
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_90
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 63}
+        - {x: -63, y: 63}
+        - {x: -63, y: -58}
+        - {x: -56, y: -61}
+        - {x: 51, y: -61}
+        - {x: 64, y: -54}
+        - {x: 64, y: 56}
+      - - {x: 21, y: 64}
+        - {x: 22, y: 61}
+        - {x: 40, y: 61}
+        - {x: 42, y: 63}
+        - {x: 42, y: 64}
+    - name: TownInterior@128x128_91
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_92
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_93
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 64}
+        - {x: -64, y: 58}
+        - {x: -64, y: -48}
+        - {x: -59, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_94
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_95
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 56, y: -64}
+        - {x: 62, y: -56}
+        - {x: 64, y: -40}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_103
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -54}
+        - {x: -57, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 17}
+        - {x: 62, y: 51}
+        - {x: -53, y: 51}
+        - {x: -64, y: 34}
+    - name: TownInterior@128x128_105
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_106
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_107
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_109
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_110
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_111
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_120
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: -51}
+        - {x: 53, y: 29}
+        - {x: 52, y: 34}
+        - {x: -6, y: 34}
+        - {x: -12, y: 28}
+        - {x: -20, y: 12}
+        - {x: -19, y: 5}
+        - {x: -29, y: 29}
+        - {x: -34, y: 34}
+        - {x: -61, y: 34}
+        - {x: -64, y: 7}
+        - {x: -64, y: -56}
+        - {x: -53, y: -64}
+        - {x: 47, y: -64}
+      - - {x: 58, y: 57}
+        - {x: 59, y: 57}
+        - {x: 62, y: 58}
+        - {x: 63, y: 64}
+        - {x: 37, y: 64}
+        - {x: 37, y: 60}
+      - - {x: -13, y: 64}
+        - {x: -13, y: 60}
+        - {x: 9, y: 60}
+        - {x: 9, y: 64}
+    - name: TownInterior@128x128_121
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_122
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_123
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_124
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_125
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_126
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_127
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_133
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_135
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_136
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 64}
+        - {x: -60, y: 63}
+        - {x: -60, y: -37}
+        - {x: 55, y: -37}
+        - {x: 55, y: 40}
+        - {x: 41, y: 64}
+    - name: TownInterior@128x128_137
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_138
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_139
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_140
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_141
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_142
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_143
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 64}
+        - {x: -44, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_145
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      - - {x: -62, y: -1}
+        - {x: -59, y: 0}
+        - {x: -59, y: 3}
+        - {x: -62, y: 4}
+        - {x: -64, y: 2}
+    - name: TownInterior@128x128_146
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -8}
+        - {x: -18, y: 59}
+    - name: TownInterior@128x128_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -8}
+        - {x: -64, y: -8}
+    - name: TownInterior@128x128_148
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 64}
+        - {x: -64, y: 0}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_149
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 44, y: -64}
+        - {x: 44, y: -17}
+        - {x: 42, y: 42}
+        - {x: 23, y: 64}
+    - name: TownInterior@128x128_150
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 64}
+        - {x: -44, y: 32}
+        - {x: -9, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_151
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 43}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 7}
+        - {x: 18, y: 43}
+      - - {x: 53, y: 11}
+        - {x: 53, y: 10}
+        - {x: 56, y: 6}
+        - {x: 64, y: 6}
+        - {x: 64, y: 14}
+        - {x: 56, y: 14}
+    - name: TownInterior@128x128_152
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 64}
+        - {x: -8, y: 64}
+        - {x: -35, y: 50}
+        - {x: -57, y: 24}
+        - {x: -57, y: -50}
+        - {x: -52, y: -64}
+        - {x: 36, y: -64}
+        - {x: 56, y: -49}
+        - {x: 56, y: 3}
+        - {x: 47, y: 53}
+      - - {x: -64, y: -42}
+        - {x: -61, y: -41}
+        - {x: -61, y: -37}
+        - {x: -63, y: -35}
+        - {x: -64, y: -35}
+      - - {x: -64, y: -29}
+        - {x: -61, y: -28}
+        - {x: -61, y: -18}
+        - {x: -63, y: -16}
+        - {x: -64, y: -16}
+    - name: TownInterior@128x128_153
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_154
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_155
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_156
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: -10}
+        - {x: -64, y: -18}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -12}
+        - {x: 36, y: -10}
+    - name: TownInterior@128x128_157
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -10}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -17}
+        - {x: 60, y: -10}
+    - name: TownInterior@128x128_158
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: -10}
+        - {x: -63, y: -12}
+        - {x: -63, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -10}
+    - name: TownInterior@128x128_159
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -10}
+        - {x: -63, y: -11}
+        - {x: -64, y: -12}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -15}
+        - {x: 60, y: -10}
+    - name: TownInterior@128x128_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 64}
+        - {x: -44, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TownInterior@128x128_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: 59}
+        - {x: -30, y: -41}
+        - {x: -8, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_164
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 8, y: -64}
+        - {x: 29, y: -36}
+        - {x: 50, y: 1}
+        - {x: 64, y: 45}
+    - name: TownInterior@128x128_165
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 44, y: -64}
+        - {x: 44, y: 64}
+    - name: TownInterior@128x128_166
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 64}
+        - {x: 8, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_167
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_168
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: -54}
+        - {x: 63, y: -56}
+        - {x: 64, y: -56}
+        - {x: 64, y: -50}
+        - {x: 61, y: -51}
+      - - {x: -40, y: 64}
+        - {x: -46, y: 49}
+        - {x: -46, y: -32}
+        - {x: -29, y: -46}
+        - {x: 44, y: -46}
+        - {x: 56, y: -29}
+        - {x: 56, y: 35}
+        - {x: 44, y: 64}
+    - name: TownInterior@128x128_169
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 64}
+        - {x: -24, y: 44}
+        - {x: -64, y: -32}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      - - {x: -27, y: -12}
+        - {x: -28, y: -16}
+        - {x: -26, y: -18}
+        - {x: -25, y: -18}
+        - {x: -22, y: -15}
+        - {x: -22, y: -13}
+        - {x: -24, y: -11}
+    - name: TownInterior@128x128_170
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -64}
+        - {x: 64, y: -2}
+        - {x: 48, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -64}
+    - name: TownInterior@128x128_171
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: -10}
+        - {x: -64, y: -16}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -17}
+        - {x: 59, y: -10}
+    - name: TownInterior@128x128_172
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -39}
+        - {x: -58, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_173
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 60, y: -64}
+        - {x: 64, y: -34}
+        - {x: 64, y: 63}
+        - {x: 63, y: 64}
+    - name: TownInterior@128x128_174
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 53}
+        - {x: -64, y: -61}
+        - {x: -63, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_175
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 63, y: -64}
+        - {x: 64, y: -46}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 64}
+        - {x: -45, y: 62}
+        - {x: -45, y: 50}
+        - {x: -40, y: 39}
+        - {x: -24, y: 21}
+        - {x: 15, y: -36}
+        - {x: 41, y: -57}
+        - {x: 54, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      - - {x: -10, y: -5}
+        - {x: -10, y: -8}
+        - {x: -8, y: -10}
+        - {x: -7, y: -10}
+        - {x: -3, y: -6}
+        - {x: -4, y: -3}
+        - {x: -8, y: -3}
+    - name: TownInterior@128x128_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: -37, y: -64}
+        - {x: 6, y: -53}
+        - {x: 45, y: 43}
+        - {x: 45, y: 64}
+      - - {x: 5, y: -8}
+        - {x: 7, y: -10}
+        - {x: 10, y: -9}
+        - {x: 10, y: -6}
+        - {x: 8, y: -4}
+        - {x: 5, y: -5}
+      - - {x: 45, y: 64}
+        - {x: 45, y: 62}
+        - {x: 47, y: 60}
+        - {x: 48, y: 60}
+        - {x: 51, y: 63}
+        - {x: 51, y: 64}
+    - name: TownInterior@128x128_178
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 64}
+        - {x: -44, y: -49}
+        - {x: -30, y: -60}
+        - {x: -18, y: -62}
+        - {x: -4, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_179
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 6, y: -64}
+        - {x: 29, y: -63}
+        - {x: 44, y: -54}
+      - - {x: 61, y: -40}
+        - {x: 63, y: -42}
+        - {x: 64, y: -42}
+        - {x: 64, y: -35}
+        - {x: 61, y: -36}
+      - - {x: 61, y: -27}
+        - {x: 63, y: -29}
+        - {x: 64, y: -29}
+        - {x: 64, y: -16}
+        - {x: 61, y: -17}
+    - name: TownInterior@128x128_180
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 24}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 43}
+        - {x: -18, y: 43}
+        - {x: -29, y: 42}
+      - - {x: -64, y: 14}
+        - {x: -64, y: 6}
+        - {x: -55, y: 6}
+        - {x: -53, y: 9}
+        - {x: -53, y: 13}
+        - {x: -54, y: 14}
+      - - {x: -24, y: 64}
+        - {x: -23, y: 61}
+        - {x: -18, y: 61}
+        - {x: -16, y: 63}
+        - {x: -16, y: 64}
+    - name: TownInterior@128x128_181
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: -8, y: -64}
+        - {x: 39, y: 27}
+        - {x: 44, y: 48}
+        - {x: 44, y: 64}
+    - name: TownInterior@128x128_182
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 64}
+        - {x: -42, y: 40}
+        - {x: -44, y: -29}
+        - {x: -44, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      - - {x: -41, y: 60}
+        - {x: -43, y: 59}
+        - {x: -43, y: 56}
+        - {x: -42, y: 54}
+        - {x: -39, y: 54}
+        - {x: -37, y: 55}
+        - {x: -37, y: 58}
+        - {x: -38, y: 60}
+    - name: TownInterior@128x128_183
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_184
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 43}
+        - {x: -15, y: 43}
+        - {x: -20, y: 32}
+        - {x: -24, y: 14}
+        - {x: -24, y: -49}
+        - {x: -21, y: -64}
+        - {x: 29, y: -64}
+        - {x: 33, y: -54}
+        - {x: 33, y: -33}
+        - {x: 14, y: 37}
+      - - {x: -64, y: -29}
+        - {x: -58, y: -37}
+        - {x: -55, y: -36}
+        - {x: -55, y: -25}
+        - {x: -60, y: -22}
+        - {x: -64, y: -21}
+      - - {x: 61, y: 11}
+        - {x: 63, y: 9}
+        - {x: 64, y: 9}
+        - {x: 64, y: 20}
+        - {x: 61, y: 19}
+      - - {x: 61, y: 32}
+        - {x: 63, y: 30}
+        - {x: 64, y: 30}
+        - {x: 64, y: 38}
+        - {x: 61, y: 37}
+    - name: TownInterior@128x128_185
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -50}
+        - {x: -57, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      - - {x: -57, y: -64}
+        - {x: -54, y: -63}
+        - {x: -54, y: -60}
+        - {x: -57, y: -59}
+        - {x: -59, y: -61}
+    - name: TownInterior@128x128_186
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 53, y: -64}
+        - {x: 64, y: -37}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_187
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -14}
+        - {x: -55, y: -64}
+        - {x: 60, y: -64}
+        - {x: 64, y: -62}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_188
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: -14}
+        - {x: -64, y: -63}
+        - {x: -63, y: -64}
+        - {x: 63, y: -64}
+        - {x: 64, y: -48}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_189
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 64}
+        - {x: -63, y: 48}
+        - {x: -63, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_190
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -11}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -12}
+        - {x: 49, y: -11}
+    - name: TownInterior@128x128_191
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 48}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 0}
+        - {x: -58, y: -57}
+        - {x: -58, y: -64}
+        - {x: 27, y: -64}
+        - {x: 38, y: -61}
+        - {x: 38, y: -1}
+        - {x: 32, y: 0}
+    - name: TownInterior@128x128_193
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -41}
+        - {x: -23, y: -64}
+        - {x: 60, y: -64}
+        - {x: 60, y: -56}
+        - {x: 31, y: -5}
+        - {x: 13, y: 0}
+        - {x: -20, y: 0}
+        - {x: -39, y: -5}
+    - name: TownInterior@128x128_194
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 19}
+        - {x: -34, y: 19}
+        - {x: -44, y: 17}
+        - {x: -44, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -47}
+        - {x: 54, y: -20}
+      - - {x: 61, y: -39}
+        - {x: 63, y: -41}
+        - {x: 64, y: -41}
+        - {x: 64, y: -34}
+        - {x: 61, y: -35}
+    - name: TownInterior@128x128_195
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_196
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -64}
+        - {x: -8, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -64}
+    - name: TownInterior@128x128_197
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 17}
+        - {x: 64, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -1}
+        - {x: 52, y: 2}
+    - name: TownInterior@128x128_198
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_199
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 64}
+        - {x: -54, y: 59}
+        - {x: -54, y: -53}
+        - {x: -46, y: -64}
+        - {x: 54, y: -64}
+        - {x: 58, y: -61}
+        - {x: 58, y: 26}
+        - {x: 49, y: 64}
+      - - {x: 61, y: -37}
+        - {x: 63, y: -39}
+        - {x: 64, y: -39}
+        - {x: 64, y: -33}
+        - {x: 61, y: -34}
+      - - {x: 57, y: -23}
+        - {x: 59, y: -25}
+        - {x: 62, y: -24}
+        - {x: 62, y: -21}
+        - {x: 60, y: -19}
+        - {x: 57, y: -20}
+      - - {x: 60, y: 20}
+        - {x: 61, y: 14}
+        - {x: 63, y: 12}
+        - {x: 64, y: 12}
+        - {x: 64, y: 22}
+        - {x: 62, y: 22}
+      - - {x: 61, y: 32}
+        - {x: 63, y: 30}
+        - {x: 64, y: 30}
+        - {x: 64, y: 39}
+        - {x: 61, y: 38}
+      - - {x: 46, y: 50}
+        - {x: 47, y: 47}
+        - {x: 51, y: 47}
+        - {x: 53, y: 49}
+        - {x: 52, y: 52}
+        - {x: 48, y: 52}
+    - name: TownInterior@128x128_200
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 64}
+        - {x: -64, y: 48}
+        - {x: -64, y: -63}
+        - {x: -63, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      - - {x: -64, y: 28}
+        - {x: -61, y: 29}
+        - {x: -61, y: 34}
+        - {x: -63, y: 36}
+        - {x: -64, y: 36}
+    - name: TownInterior@128x128_201
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 62, y: -64}
+        - {x: 64, y: -59}
+        - {x: 64, y: 56}
+        - {x: 55, y: 64}
+    - name: TownInterior@128x128_202
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -28}
+        - {x: -29, y: -28}
+        - {x: -35, y: -29}
+        - {x: -54, y: -54}
+        - {x: -54, y: -64}
+        - {x: 49, y: -64}
+        - {x: 49, y: -60}
+        - {x: 43, y: -46}
+      - - {x: -55, y: -49}
+        - {x: -50, y: -50}
+        - {x: -41, y: -46}
+        - {x: -39, y: -44}
+        - {x: -39, y: 3}
+        - {x: -58, y: 51}
+        - {x: -64, y: 51}
+        - {x: -64, y: -58}
+        - {x: -61, y: -57}
+        - {x: -54, y: -54}
+        - {x: -52, y: -52}
+        - {x: -53, y: -49}
+      - - {x: 59, y: -41}
+        - {x: 59, y: -49}
+        - {x: 62, y: -55}
+        - {x: 64, y: -55}
+        - {x: 64, y: -36}
+        - {x: 60, y: -36}
+      - - {x: -51, y: -37}
+        - {x: -48, y: -36}
+        - {x: -48, y: -33}
+        - {x: -51, y: -32}
+        - {x: -53, y: -34}
+    - name: TownInterior@128x128_203
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 33}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 33}
+      - - {x: 11, y: 19}
+        - {x: 14, y: 20}
+        - {x: 14, y: 23}
+        - {x: 11, y: 24}
+        - {x: 9, y: 22}
+    - name: TownInterior@128x128_204
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -52}
+        - {x: -48, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      - - {x: -63, y: -38}
+        - {x: -64, y: -38}
+        - {x: -64, y: -62}
+        - {x: -61, y: -61}
+        - {x: -59, y: -58}
+        - {x: -59, y: -45}
+        - {x: -60, y: -39}
+    - name: TownInterior@128x128_205
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_206
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 59, y: -64}
+        - {x: 64, y: -44}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_208
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_209
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_210
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 19}
+        - {x: -6, y: 19}
+        - {x: -52, y: -16}
+        - {x: -64, y: -43}
+        - {x: -64, y: -64}
+        - {x: 44, y: -64}
+        - {x: 44, y: 16}
+        - {x: 39, y: 17}
+      - - {x: -64, y: -41}
+        - {x: -61, y: -40}
+        - {x: -61, y: -36}
+        - {x: -63, y: -34}
+        - {x: -64, y: -34}
+      - - {x: 55, y: -25}
+        - {x: 55, y: -37}
+        - {x: 59, y: -37}
+        - {x: 64, y: -31}
+        - {x: 64, y: -21}
+        - {x: 60, y: -22}
+    - name: TownInterior@128x128_211
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+    - name: TownInterior@128x128_212
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 44, y: -64}
+        - {x: 44, y: -5}
+        - {x: 42, y: 41}
+      - - {x: 39, y: 60}
+        - {x: 37, y: 58}
+        - {x: 37, y: 56}
+        - {x: 39, y: 54}
+        - {x: 41, y: 54}
+        - {x: 43, y: 56}
+        - {x: 43, y: 58}
+        - {x: 41, y: 60}
+    - name: TownInterior@128x128_213
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: -5}
+        - {x: -56, y: -19}
+        - {x: -56, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -5}
+    - name: TownInterior@128x128_214
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 1}
+        - {x: -64, y: -4}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -4}
+        - {x: 62, y: 1}
+    - name: TownInterior@128x128_215
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -5}
+        - {x: -64, y: -64}
+        - {x: 57, y: -64}
+        - {x: 57, y: -19}
+        - {x: 50, y: -5}
+      - - {x: 52, y: -18}
+        - {x: 54, y: -19}
+        - {x: 57, y: -17}
+        - {x: 57, y: -12}
+        - {x: 55, y: -10}
+        - {x: 52, y: -11}
+      - - {x: -35, y: 64}
+        - {x: -34, y: 61}
+        - {x: -22, y: 56}
+        - {x: 27, y: 56}
+        - {x: 42, y: 61}
+        - {x: 42, y: 64}
+    - name: TownInterior@128x128_216
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -9}
+        - {x: -60, y: -17}
+        - {x: -60, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -9}
+      - - {x: 14, y: 64}
+        - {x: 15, y: 61}
+        - {x: 64, y: 61}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_217
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: -9}
+        - {x: -64, y: -9}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -12}
+      - - {x: -36, y: 50}
+        - {x: -33, y: 51}
+        - {x: -33, y: 54}
+        - {x: -36, y: 55}
+        - {x: -38, y: 53}
+      - - {x: -64, y: 64}
+        - {x: -64, y: 61}
+        - {x: -45, y: 56}
+        - {x: -41, y: 55}
+        - {x: 23, y: 55}
+        - {x: 42, y: 59}
+        - {x: 42, y: 64}
+    - name: TownInterior@128x128_218
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 64}
+        - {x: -62, y: 50}
+        - {x: -62, y: -24}
+        - {x: -51, y: -63}
+        - {x: -39, y: -64}
+        - {x: 63, y: -64}
+        - {x: 64, y: -62}
+        - {x: 64, y: 59}
+        - {x: 60, y: 64}
+      - - {x: -64, y: -27}
+        - {x: -64, y: -50}
+        - {x: -58, y: -50}
+        - {x: -58, y: -28}
+        - {x: -59, y: -27}
+    - name: TownInterior@128x128_219
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -20, y: 11}
+        - {x: -52, y: -26}
+        - {x: -62, y: -60}
+        - {x: -62, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -30}
+        - {x: 33, y: 17}
+      - - {x: -59, y: 0}
+        - {x: -64, y: 0}
+        - {x: -64, y: -45}
+        - {x: -62, y: -48}
+        - {x: -57, y: -48}
+        - {x: -51, y: -36}
+        - {x: -51, y: -4}
+        - {x: -52, y: -1}
+      - - {x: 31, y: 64}
+        - {x: 31, y: 63}
+        - {x: 33, y: 59}
+        - {x: 42, y: 59}
+        - {x: 54, y: 60}
+        - {x: 55, y: 63}
+        - {x: 55, y: 64}
+      - - {x: 7, y: 64}
+        - {x: 8, y: 61}
+        - {x: 23, y: 61}
+        - {x: 25, y: 63}
+        - {x: 25, y: 64}
+    - name: TownInterior@128x128_220
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 7}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 7}
+    - name: TownInterior@128x128_221
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 7}
+        - {x: -64, y: -43}
+        - {x: -53, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -1}
+        - {x: 49, y: 7}
+    - name: TownInterior@128x128_222
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 9}
+        - {x: -64, y: 3}
+        - {x: -64, y: -64}
+        - {x: 61, y: -64}
+        - {x: 63, y: -45}
+        - {x: 63, y: 9}
+    - name: TownInterior@128x128_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 63}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 63}
+    - name: TownInterior@128x128_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 63}
+        - {x: -64, y: -64}
+        - {x: 63, y: -64}
+        - {x: 64, y: -61}
+        - {x: 64, y: 53}
+        - {x: 55, y: 63}
+    - name: TownInterior@128x128_225
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 23}
+        - {x: -57, y: 8}
+        - {x: -57, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 59}
+        - {x: 32, y: 59}
+        - {x: -14, y: 56}
+      - - {x: -64, y: -8}
+        - {x: -63, y: -9}
+        - {x: -60, y: -8}
+        - {x: -60, y: -5}
+        - {x: -62, y: -3}
+        - {x: -64, y: -4}
+      - - {x: -61, y: 2}
+        - {x: -61, y: 5}
+        - {x: -64, y: 6}
+        - {x: -64, y: 1}
+      - - {x: -61, y: 7}
+        - {x: -61, y: 10}
+        - {x: -64, y: 11}
+        - {x: -64, y: 6}
+      - - {x: -12, y: 53}
+        - {x: -11, y: 50}
+        - {x: -7, y: 50}
+        - {x: -5, y: 52}
+        - {x: -6, y: 55}
+        - {x: -10, y: 55}
+    - name: TownInterior@128x128_226
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 59}
+        - {x: -64, y: -64}
+        - {x: 61, y: -64}
+        - {x: 61, y: 39}
+        - {x: 15, y: 59}
+    - name: TownInterior@128x128_227
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 64}
+        - {x: -20, y: 64}
+        - {x: -23, y: 63}
+        - {x: -48, y: 12}
+        - {x: -48, y: -42}
+        - {x: -25, y: -62}
+        - {x: 31, y: -62}
+        - {x: 51, y: -53}
+        - {x: 61, y: -39}
+        - {x: 61, y: -7}
+        - {x: 44, y: 40}
+    - name: TownInterior@128x128_228
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 62}
+        - {x: -60, y: 32}
+        - {x: -60, y: -40}
+        - {x: -56, y: -48}
+        - {x: -37, y: -64}
+        - {x: 8, y: -64}
+        - {x: 64, y: 3}
+        - {x: 64, y: 50}
+        - {x: 60, y: 62}
+    - name: TownInterior@128x128_229
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 64}
+        - {x: -56, y: 12}
+        - {x: -57, y: 5}
+        - {x: -57, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_230
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_231
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 59, y: -64}
+        - {x: 62, y: -59}
+        - {x: 62, y: 64}
+    - name: TownInterior@128x128_232
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 64}
+        - {x: -61, y: 41}
+        - {x: -63, y: 22}
+        - {x: -63, y: -13}
+        - {x: -60, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_233
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 61, y: -64}
+        - {x: 63, y: -63}
+        - {x: 64, y: -60}
+        - {x: 64, y: 48}
+    - name: TownInterior@128x128_234
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 49}
+        - {x: -19, y: 49}
+        - {x: -41, y: 40}
+        - {x: -42, y: 30}
+        - {x: -42, y: -29}
+        - {x: -27, y: -64}
+        - {x: 43, y: -64}
+        - {x: 50, y: -62}
+        - {x: 50, y: 16}
+        - {x: 25, y: 40}
+      - - {x: -64, y: -27}
+        - {x: -64, y: -38}
+        - {x: -59, y: -38}
+        - {x: -59, y: -28}
+        - {x: -60, y: -27}
+      - - {x: -64, y: -17}
+        - {x: -61, y: -20}
+        - {x: -58, y: -19}
+        - {x: -58, y: -6}
+        - {x: -61, y: -5}
+        - {x: -64, y: -6}
+      - - {x: -63, y: 24}
+        - {x: -64, y: 21}
+        - {x: -64, y: 1}
+        - {x: -62, y: -1}
+        - {x: -59, y: 0}
+        - {x: -59, y: 21}
+        - {x: -60, y: 24}
+      - - {x: -22, y: 64}
+        - {x: -22, y: 49}
+        - {x: 14, y: 49}
+        - {x: 42, y: 55}
+        - {x: 42, y: 64}
+      - - {x: 45, y: 59}
+        - {x: 48, y: 60}
+        - {x: 48, y: 63}
+        - {x: 45, y: 64}
+        - {x: 43, y: 62}
+    - name: TownInterior@128x128_235
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 61}
+        - {x: -64, y: 36}
+        - {x: -25, y: -23}
+        - {x: 24, y: -23}
+        - {x: 64, y: -1}
+        - {x: 64, y: 64}
+      - - {x: -61, y: 36}
+        - {x: -58, y: 33}
+        - {x: -55, y: 34}
+        - {x: -55, y: 36}
+        - {x: -58, y: 39}
+        - {x: -60, y: 39}
+    - name: TownInterior@128x128_236
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -53}
+        - {x: -54, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_237
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 64}
+        - {x: -62, y: 22}
+        - {x: -64, y: -10}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      - - {x: -63, y: 25}
+        - {x: -64, y: 25}
+        - {x: -64, y: -12}
+        - {x: -60, y: -12}
+        - {x: -58, y: -7}
+        - {x: -58, y: 15}
+        - {x: -61, y: 24}
+    - name: TownInterior@128x128_238
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 37}
+        - {x: 56, y: 49}
+    - name: TownInterior@128x128_239
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 64}
+        - {x: -62, y: -64}
+        - {x: 62, y: -64}
+        - {x: 64, y: -58}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_240
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -57}
+        - {x: -34, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_241
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 64}
+        - {x: -64, y: 33}
+        - {x: -64, y: -51}
+        - {x: -55, y: -64}
+        - {x: 11, y: -64}
+        - {x: 64, y: -56}
+        - {x: 64, y: 64}
+      - - {x: -64, y: -52}
+        - {x: -61, y: -51}
+        - {x: -60, y: -47}
+        - {x: -62, y: -45}
+        - {x: -64, y: -46}
+      - - {x: -61, y: 45}
+        - {x: -59, y: 43}
+        - {x: -56, y: 44}
+        - {x: -56, y: 47}
+        - {x: -58, y: 49}
+        - {x: -61, y: 48}
+    - name: TownInterior@128x128_242
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -60}
+        - {x: -43, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 52}
+        - {x: 61, y: 64}
+    - name: TownInterior@128x128_243
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 55}
+        - {x: 28, y: 60}
+        - {x: -59, y: 60}
+        - {x: -59, y: 31}
+        - {x: 1, y: -59}
+        - {x: 44, y: -59}
+        - {x: 61, y: -46}
+        - {x: 64, y: -44}
+        - {x: 64, y: 17}
+    - name: TownInterior@128x128_244
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 61}
+        - {x: -8, y: 61}
+        - {x: -27, y: 47}
+        - {x: -30, y: 31}
+        - {x: -40, y: 7}
+        - {x: -42, y: 0}
+        - {x: -42, y: -21}
+        - {x: -17, y: -53}
+        - {x: 31, y: -53}
+        - {x: 60, y: -8}
+        - {x: 60, y: 45}
+        - {x: 53, y: 55}
+      - - {x: -64, y: -33}
+        - {x: -61, y: -31}
+        - {x: -61, y: -26}
+        - {x: -62, y: -23}
+        - {x: -64, y: -23}
+    - name: TownInterior@128x128_245
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 64}
+        - {x: -58, y: 7}
+        - {x: -13, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_246
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -58}
+        - {x: -62, y: -60}
+        - {x: 63, y: -60}
+        - {x: 64, y: -58}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_247
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -58}
+        - {x: -62, y: -63}
+        - {x: -58, y: -64}
+        - {x: 31, y: -64}
+        - {x: 62, y: -17}
+        - {x: 62, y: 62}
+        - {x: 61, y: 64}
+      - - {x: 52, y: 6}
+        - {x: 51, y: 5}
+        - {x: 51, y: -51}
+        - {x: 57, y: -51}
+        - {x: 57, y: 6}
+    - name: TownInterior@128x128_248
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 64}
+        - {x: -62, y: 25}
+        - {x: -62, y: 5}
+        - {x: -42, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+    - name: TownInterior@128x128_249
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 53}
+        - {x: 60, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 47, y: -64}
+        - {x: 57, y: -50}
+        - {x: 64, y: 17}
+    - name: TownInterior@128x128_250
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 64}
+        - {x: -46, y: 52}
+        - {x: -46, y: -64}
+        - {x: 60, y: -64}
+        - {x: 62, y: -58}
+        - {x: 62, y: 36}
+        - {x: 54, y: 64}
+      - - {x: 61, y: -14}
+        - {x: 64, y: -13}
+        - {x: 64, y: -10}
+        - {x: 61, y: -9}
+        - {x: 59, y: -11}
+    - name: TownInterior@128x128_251
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -46}
+        - {x: -27, y: -54}
+        - {x: 44, y: -54}
+        - {x: 61, y: -36}
+        - {x: 61, y: 13}
+        - {x: 36, y: 63}
+        - {x: 35, y: 64}
+        - {x: -41, y: 64}
+        - {x: -49, y: 53}
+    - name: TownInterior@128x128_252
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -31}
+        - {x: -54, y: -34}
+        - {x: 37, y: -34}
+        - {x: 44, y: -33}
+        - {x: 63, y: -24}
+        - {x: 64, y: -19}
+        - {x: 64, y: 64}
+      - - {x: -53, y: -3}
+        - {x: -50, y: -2}
+        - {x: -50, y: 1}
+        - {x: -53, y: 2}
+        - {x: -55, y: 0}
+    - name: TownInterior@128x128_253
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 64}
+        - {x: -61, y: 58}
+        - {x: -61, y: -28}
+        - {x: -55, y: -64}
+        - {x: 56, y: -64}
+        - {x: 64, y: -61}
+        - {x: 64, y: 64}
+      - - {x: -64, y: 44}
+        - {x: -61, y: 45}
+        - {x: -61, y: 48}
+        - {x: -63, y: 50}
+        - {x: -64, y: 50}
+    - name: TownInterior@128x128_254
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 53, y: -64}
+        - {x: 61, y: -42}
+        - {x: 64, y: 21}
+        - {x: 64, y: 64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
